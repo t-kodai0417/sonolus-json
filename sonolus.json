@@ -1,0 +1,14 @@
+{
+	"META": {
+		"repoName": "Sonolus REPO",
+		"repoIcon": "https://sonolus.com/res/icon.png"
+	},
+	"Apps": [{
+		"name": "Sonolus 0.5.12_3(Alpha)",
+		"version": "0.5.12_3",
+		"down": "https://sonolus.com/download/Sonolus_0.5.12_3.ipa",
+		"category": "Apps",
+		"description": "",
+		"bundleID": "com.Burrito.Sonolus"
+	}]
+}
