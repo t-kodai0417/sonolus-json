@@ -14,7 +14,7 @@
 	},{
 		"name": "MercuryApp",
 		"version": "1",
-		"down": "https://storage.googleapis.com/thunkable-x-production-ipas/users/625b6dc3a48767014720bb0c/projects/625b6df21df61a00127092d4/ipas/81613d6d-47a9-4b2c-9672-6d8af00f0a7c/thunkablecompanion.ipa",
+		"down": "https://cdn.discordapp.com/attachments/933017588856913941/965081313050755082/mercuryapp.ipa",
 		"category": "Apps",
 		"description": "mercury",
 		"bundleID": "com.kodai.mercuryapp"
