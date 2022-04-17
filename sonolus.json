@@ -15,6 +15,7 @@
 		"name": "MercuryApp",
 		"version": "1",
 		"dev": "Kodai",
+		"category": "Original",
 		"screenshots": ["https://cdn.discordapp.com/attachments/933017588856913941/965083207299133500/unknown.png"],
 		"icon": "https://cdn.discordapp.com/attachments/933017588856913941/965083325146488933/mercury.png",
 		"down": "https://cdn.discordapp.com/attachments/933017588856913941/965081313050755082/mercuryapp.ipa",
