@@ -29,7 +29,8 @@
 			"https://usescarlet.com/debs/SposifyFix.dylib"
 		],
 		"changelog":"- 細かなバグを修正。",
-		"bundleID": "com.kodai.mercuryapp"
+		"bundleID": "com.kodai.mercuryapp",
+		"appstore": "com.kodai.mercuryapp"
 	}
 		]
 }
