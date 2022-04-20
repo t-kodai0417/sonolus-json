@@ -13,7 +13,7 @@
                  "icon": "https://sonolus.com/res/icon.png",
                  "dev": "Burrito",
 		 "description": "Sonolus 0.5.12(3)Alpha",
-                 "changelog":"- 多分バグが修正されたンゴ",
+                 "changelog":"- NSFW規制がされてないらしい",
 	         "bundleID": "com.bruh.disco",
                  "appstore": "com.bruh.disco",
 		 "contact": {
