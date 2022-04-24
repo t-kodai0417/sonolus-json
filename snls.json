@@ -6,7 +6,7 @@
 	"Apps": [
 		{
 		"name": "Sonolus 0.5.12_3(Alpha)",
-		"version": "0.5.12.2",
+		"version": "0.5.13",
         "screenshots": ["https://cdn.discordapp.com/attachments/933017588856913941/965138571868639333/IMG_6981.png","https://cdn.discordapp.com/attachments/933017588856913941/965138572095143966/IMG_6967.png"],
 		"down": "https://sonolus.com/download/Sonolus_0.5.13.ipa",
 		"category": "Sonolus",
