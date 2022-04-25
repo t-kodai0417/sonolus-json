@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kodai.mercuryapp</string>
+				<string>com.Burrito.Sonolus</string>
 				<key>bundle-version</key>
-				<string>6.0</string>
+				<string>0.5.13</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>MercuryApp</string>
+				<string>Sonolus</string>
 			</dict>
 		</dict>
 	</array>
