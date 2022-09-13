@@ -8,14 +8,14 @@
 		 "name": "Discord",
 		 "version": "67.0",
                  "screenshots": ["https://cdn.discordapp.com/attachments/933017588856913941/965138571868639333/IMG_6981.png","https://cdn.discordapp.com/attachments/933017588856913941/965138572095143966/IMG_6967.png"],
-		 "down": "https://cdn.discordapp.com/attachments/964753016517431306/966254734036054016/Discord_67.0.ipa",
-		 "category": "Sonolus",
+		 "down": "https://cdn.discordapp.com/attachments/994932348833509376/1019183184790949898/Discord_102.0_1638781950.ipa",
+		 "category": "Discord",
                  "icon": "https://sonolus.com/res/icon.png",
                  "dev": "Burrito",
 		 "description": "Sonolus 0.5.12(3)Alpha",
                  "changelog":"- NSFW規制がされてないらしい",
-	         "bundleID": "com.bruh.disco",
-                 "appstore": "com.bruh.disco",
+	         "bundleID": "com.discord.discord2",
+                 "appstore": "com.discord.discord2",
 		 "contact": {
 			"web": "https://sonolus.com"
 		 }
